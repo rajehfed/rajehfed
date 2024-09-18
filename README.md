@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @rajehfed
-- 👀 I’m interested in ...Evry think about creativity and Programming 
-- 🌱 I’m currently wanna be a Pro full stack developer
-- 💞️ MERN
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fedili Rajeh
+🗓️ Age: 21 | 📍 Location: Oran, Algeria
 
-<!---
-rajehfed/rajehfed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+💻 I’m a passionate programmer with 2 years of experience, specializing in:
+      🔹 C++
+      🔹 JavaScript/TypeScript
+      🔹 C
+
+🚀 Currently learning C# and on a journey to become a leader in the tech industry.
+
+Hobbies
+📚 I love reading, focusing on serious work, and staying informed through podcasts.
+🥊 In my free time, I enjoy boxing and ⚽ football, maintaining a balance between my professional and personal life.
+
+My Mission
+I'm committed to constant growth, innovation, and achieving excellence in everything I do. 💪
