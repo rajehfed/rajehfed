@@ -2,7 +2,7 @@
 
 # rajeh fedili
 
-`electrical engineering` · `battery management systems` · `digital twins`
+`software engineer` · `database enthusiast` · `system design learner`
 
 <br>
 
@@ -11,32 +11,39 @@
 <td valign="top">
 
 ```
-                           ######
-                      %%%%%@@@@#%*#%#
-                    %*@@@@@@@@@@%@@#%%#
-                   #%%@@@@@@@@@@@@@@@@@%*
-                  @%@@%#+==--=-+**++*#@#%#%
-                 %@@#===---------====+##%@%*
-                 %##=====--=------==++++=#@#
-                 #%=====----------==++++==%#
-                  %=-#*#%%#+=--==+#%%#*=-:%+
-                  %-++++*%##*==+##%%#**##:#
-                  %=*=#@@#%==--+%##%***#*:*
-                 #-==+**+===---=+**+*###*:*=
-                 +==-====--=---=+*=+=+==-:+
-                 --===----=:---=+===++++=:*
-                 -=====----+##*#%*+==+++=*-
-                  *=====---====+*===++++-*
-                   -======-+*++*+++++++=:
-                    ====*++=++*+**%**++-
-                    =+++++++++*******+=
-                    =+++++=====+**##++=
-                    ===+=======++**++*=
-----------------   #====#+++*******##*=
----===--------=----++====*###%%%#####*=
-----===---=--==-=--++======*#########*+*-=+:
-=---====----=+------==++====+##########%---=---:.
-==--=+===---+==------=====+++++*######%-=---==---:::..
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                           ######                         
+                      %%%%%@@@@#%*#%#                     
+                    %*@@@@@@@@@@%@@#%%#                   
+                   #%%@@@@@@@@@@@@@@@@@%*                 
+                  @%@@%#+==--=-+**++*#@#%#%               
+                 %@@#===---------====+##%@%*              
+                 %##=====--=------==++++=#@#              
+                 #%=====----------==++++==%#              
+                  %=-#*#%%#+=--==+#%%#*=-:%+              
+                  %-++++*%##*==+##%%#**##:#               
+                  %=*=#@@#%==--+%##%***#*:*               
+                 #-==+**+===---=+**+*###*:*=              
+                 +==-====--=---=+*=+=+==-:+               
+                 --===----=:---=+===++++=:*               
+                 -=====----+##*#%*+==+++=*-               
+                  *=====---====+*===++++-*                
+                   -======-+*++*+++++++=:                 
+                    ====*++=++*+**%**++-                  
+                    =+++++++++*******+=                   
+                    =+++++=====+**##++=                   
+                    ===+=======++**++*=                   
+----------------   #====#+++*******##*=                   
+---===--------=----++====*###%%%#####*=                   
+----===---=--==-=--++======*#########*+*-=+:              
+=---====----=+------==++====+##########%---=---:.         
+==--=+===---+==------=====+++++*######%-=---==---:::..    
 ===-=+===---====--=--==-==+++++++*###*-=-----=--------:::.
 +==-=+===----+==-----=-=====+====+-=====--=--==-----------
 =+--=+===-----+===----=-===============--==--===--------==
@@ -52,34 +59,40 @@
 <td valign="top">
 
 ```
-rajeh@esg2e
+rajeh@dev
 ───────────────────────────────
-OS        electrical engineering
-          (génie électrique)
-Host      esg2e oran — 5th year
-Shell     matlab / simulink
-          python
-Status     final year — pfe
-          defended
+OS        oran, algeria
+Role      software engineer
+Focus     backend development
+          database design
+          system architecture
 
 ───────────────────────────────
-Project   digital twin for smart
-          battery management
-          systems
-Model     2rc ecm · rls id
-Estimate  dual-ekf (soc / soh)
-Dataset   xjtu 2c aging
+Learning  sql server advanced
+          (procedures, txns,
+          constraints)
+          git workflows
+          system design
 
 ───────────────────────────────
-Langs     python · c++ · matlab
-          latex
-Focus     system design ·
-          structured docs
+Ask me    db normalization
+about     clean requirement
+          translation
+          incremental learning
+
+───────────────────────────────
+Stack     c# · .net · c++
+          js · typescript
+DB        sql server · postgres
+          mysql · sqlite
+Design    figma · adobe xd
+          photoshop
 
 ───────────────────────────────
 Email     fedilirajeh@gmail.com
 GitHub    github.com/rajehfed
 LinkedIn  in/rajeh-fedili
+X         @rfedili
 ```
 
 </td>
@@ -92,10 +105,13 @@ LinkedIn  in/rajeh-fedili
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat-square&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat-square&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 
 <br>
